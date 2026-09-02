@@ -1,3 +1,4 @@
+Python
 import math
 
 # Ask the user to enter the coordinates of the first point
